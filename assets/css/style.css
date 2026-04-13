@@ -16289,7 +16289,7 @@ display: none;
         left: 0;
         right: 0;
         bottom: 0;
-        background: rgb(0 0 0 / 12%);
+        /* background: rgb(0 0 0 / 12%); */
     }
 
     .header-breadcrumb-section .container {
@@ -16302,22 +16302,22 @@ display: none;
         font-size: 48px;
         font-weight: 700;
         margin-bottom: 15px;
-        color: #fff;
+        color: #5fa6d7;
     }
 
     /* Breadcrumb */
     .header-breadcrumb-section-breadcrumb {
         font-size: 16px;
-        color: #f2f2f2;
+        color: #5fa6d7;
     }
 
     .header-38-pagename-breadcrumb a {
-        color: #fff!important;
+        color: #5fa6d7!important;
         text-decoration: none;
     }
 
     .header-breadcrumb-section-breadcrumb span {
-        color: #fff;
+        color: #5fa6d7;
     }
 
     /* Responsive styles */
